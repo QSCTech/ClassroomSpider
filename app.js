@@ -307,6 +307,4 @@ async function createImg(courseArray, classRoomName) {
   await writeImg()
 }
 
-// 调用主函数
-
 ttfish()
